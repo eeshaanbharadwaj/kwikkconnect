@@ -9,7 +9,7 @@ A comprehensive incident management and expert collaboration platform that strea
 
 ## 🚀 Features
 
-### 📊 **Dashboard & Case Management**
+### 📊 **Dashboard & Case Management**  
 - **Comprehensive Case Overview**: Track all  incidents with real-time status updates
 - **Advanced Filtering**: Filter cases by status, module, severity, and custom criteria
 - **Quick Stats**: Monitor key metrics and case distribution  
